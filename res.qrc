@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image_qi/back.png</file>
+        <file>image_qi/back2.png</file>
+        <file>image_qi/bg1.jpg</file>
+        <file>image_qi/bg2.jpg</file>
+        <file>image_qi/black.png</file>
+        <file>image_qi/black2.png</file>
+        <file>image_qi/board.jpg</file>
+        <file>image_qi/buttonBK.png</file>
+        <file>image_qi/chess.ico</file>
+        <file>image_qi/close.png</file>
+        <file>image_qi/lig1.jpg</file>
+        <file>image_qi/machine.png</file>
+        <file>image_qi/machine2.png</file>
+        <file>image_qi/min.png</file>
+        <file>image_qi/network.png</file>
+        <file>image_qi/network2.png</file>
+        <file>image_qi/ruiwen1.jpg</file>
+        <file>image_qi/victory.jpg</file>
+        <file>image_qi/white.png</file>
+        <file>image_qi/white2.png</file>
+        <file>image_qi/yasuo1.jpg</file>
+        <file>image_qi/yun.png</file>
+        <file>image_qi/yun1.jpg.png</file>
+        <file>image_qi/yun2.jpg.png</file>
+        <file>image_qi/yun3.jpg.png</file>
+        <file>image_qi/music.mp3</file>
+    </qresource>
+</RCC>
